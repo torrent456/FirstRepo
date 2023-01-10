@@ -1,4 +1,6 @@
 this is another garbage file.
 this is some random text.
 I am learning git currently with some experimental files
-
+git is amazing tool to work with. 
+Every developer should have proper knowledge of git 
+Without git or version control it would be too tedious to manage multiple developer working on the same project.
