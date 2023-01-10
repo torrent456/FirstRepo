@@ -1,0 +1,4 @@
+this is another garbage file.
+this is some random text.
+I am learning git currently with some experimental files
+
